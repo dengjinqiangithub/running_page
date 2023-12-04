@@ -1,0 +1,152 @@
+{
+    "id": "297449307ad37e8895385937ba7278bbed5da3938b1c30b22d8da37a5f5a6b1a",
+    "type": "run",
+    "app_id": "com.garmin.garmin",
+    "start_epoch_ms": 1504988236000,
+    "end_epoch_ms": 1504988259000,
+    "last_modified": 1692950469850,
+    "active_duration_ms": 5000,
+    "session": false,
+    "delete_indicator": false,
+    "summaries": [
+        {
+            "metric": "speed",
+            "summary": "mean",
+            "source": "com.garmin.garmin.2431",
+            "app_id": "com.garmin.garmin",
+            "value": 0.9287999725341797
+        },
+        {
+            "metric": "pace",
+            "summary": "mean",
+            "source": "com.garmin.garmin.2431",
+            "app_id": "com.garmin.garmin",
+            "value": 64.5994851144249
+        },
+        {
+            "metric": "distance",
+            "summary": "total",
+            "source": "com.garmin.garmin.2431",
+            "app_id": "com.garmin.garmin",
+            "value": 0.0012899999618530274
+        },
+        {
+            "metric": "heart_rate",
+            "summary": "mean",
+            "source": "com.garmin.garmin.2431",
+            "app_id": "com.garmin.garmin",
+            "value": 88.5
+        },
+        {
+            "metric": "grade",
+            "summary": "mean",
+            "source": "com.garmin.garmin.2431",
+            "app_id": "com.garmin.garmin",
+            "value": 0
+        }
+    ],
+    "sources": [
+        "com.garmin.garmin.2431"
+    ],
+    "tags": {},
+    "change_tokens": [
+        "17270546d023ab5c8079e12a9b57a4a31883c4657fc047bf5a69172de5c073e0:1692950469850",
+        "5bcab2bfc0ee9b44d04ff59e70749d165c95ff41268063954fcee2a3819fe594:1505522381081"
+    ],
+    "metric_types": [
+        "distance",
+        "grade",
+        "heart_rate",
+        "speed"
+    ],
+    "metrics": [
+        {
+            "type": "distance",
+            "unit": "KM",
+            "source": "com.garmin.garmin.2431",
+            "appId": "com.garmin.garmin",
+            "values": [
+                {
+                    "start_epoch_ms": 1504988236000,
+                    "end_epoch_ms": 1504988237000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1504988237000,
+                    "end_epoch_ms": 1504988241000,
+                    "value": 0.0012899999618530274
+                }
+            ]
+        },
+        {
+            "type": "speed",
+            "unit": "KMH",
+            "source": "com.garmin.garmin.2431",
+            "appId": "com.garmin.garmin",
+            "values": [
+                {
+                    "start_epoch_ms": 1504988236000,
+                    "end_epoch_ms": 1504988237000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1504988237000,
+                    "end_epoch_ms": 1504988241000,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "type": "heart_rate",
+            "unit": "BPM",
+            "source": "com.garmin.garmin.2431",
+            "appId": "com.garmin.garmin",
+            "values": [
+                {
+                    "start_epoch_ms": 1504988236000,
+                    "end_epoch_ms": 1504988237000,
+                    "value": 88
+                },
+                {
+                    "start_epoch_ms": 1504988237000,
+                    "end_epoch_ms": 1504988241000,
+                    "value": 89
+                }
+            ]
+        },
+        {
+            "type": "grade",
+            "unit": "RATIO",
+            "source": "com.garmin.garmin.2431",
+            "appId": "com.garmin.garmin",
+            "values": [
+                {
+                    "start_epoch_ms": 1504988236000,
+                    "end_epoch_ms": 1504988237000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1504988237000,
+                    "end_epoch_ms": 1504988241000,
+                    "value": 0
+                }
+            ]
+        }
+    ],
+    "moments": [
+        {
+            "key": "halt",
+            "value": "pause",
+            "timestamp": 1504988241000,
+            "app_id": "com.garmin.garmin",
+            "source": "com.garmin.garmin.2431"
+        },
+        {
+            "key": "lap",
+            "value": "1",
+            "timestamp": 1504988241000,
+            "app_id": "com.garmin.garmin",
+            "source": "com.garmin.garmin.2431"
+        }
+    ]
+}
