@@ -1,0 +1,43 @@
+<gpx xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd">
+  <extensions>
+<distance>17.0</distance>
+<average_hr>69.0</average_hr>
+<average_speed>1.0180000066757202</average_speed>
+<start_time>2022-05-26T15:18:07+00:00</start_time>
+<end_time>2022-05-26T15:18:23.708000+00:00</end_time>
+<moving_time>16.0</moving_time>
+<elapsed_time>16.708</elapsed_time>
+</extensions>
+<metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2022-05-26T15:18:07.000Z</time>
+  </metadata>
+  <trk>
+    <name>跑步</name>
+    <type>running</type>
+    <trkseg>
+      <trkpt lat="23.1778765283524990081787109375" lon="113.25137316249310970306396484375">
+        <ele>24.200000762939453125</ele>
+        <time>2022-05-26T15:18:23.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>71</ns3:hr>
+            <ns3:cad>0</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="23.17785255610942840576171875" lon="113.25136251747608184814453125">
+        <ele>24.200000762939453125</ele>
+        <time>2022-05-26T15:18:24.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>71</ns3:hr>
+            <ns3:cad>0</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

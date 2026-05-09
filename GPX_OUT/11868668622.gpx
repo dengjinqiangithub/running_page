@@ -1,0 +1,61 @@
+<gpx xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd">
+  <extensions>
+<distance>34.66</distance>
+<average_hr>72.0</average_hr>
+<average_speed>0.8980000019073486</average_speed>
+<start_time>2021-06-03T14:17:34+00:00</start_time>
+<end_time>2021-06-03T14:18:12.623000+00:00</end_time>
+<moving_time>17.0</moving_time>
+<elapsed_time>38.623</elapsed_time>
+</extensions>
+<metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2021-06-03T14:17:34.000Z</time>
+  </metadata>
+  <trk>
+    <name>广州市 跑步</name>
+    <type>running</type>
+    <trkseg>
+      <trkpt lat="23.178177773952484130859375" lon="113.25123536400496959686279296875">
+        <ele>20.3999996185302734375</ele>
+        <time>2021-06-03T14:17:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>75</ns3:hr>
+            <ns3:cad>0</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="23.17823770456016063690185546875" lon="113.2510971464216709136962890625">
+        <ele>20</ele>
+        <time>2021-06-03T14:17:45.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>71</ns3:hr>
+            <ns3:cad>0</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="23.1781202740967273712158203125" lon="113.25088550336658954620361328125">
+        <ele>22.3999996185302734375</ele>
+        <time>2021-06-03T14:17:50.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:cad>0</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="23.17809571512043476104736328125" lon="113.25085214339196681976318359375">
+        <ele>22.799999237060546875</ele>
+        <time>2021-06-03T14:17:54.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:cad>0</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

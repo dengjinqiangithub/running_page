@@ -1,0 +1,50 @@
+<gpx xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd">
+  <extensions>
+<distance>3.88</distance>
+<average_hr></average_hr>
+<average_speed>0.34000000357627863</average_speed>
+<start_time>2023-05-17T15:41:56+00:00</start_time>
+<end_time>2023-05-17T15:42:07.423000+00:00</end_time>
+<moving_time>0.0</moving_time>
+<elapsed_time>11.423</elapsed_time>
+</extensions>
+<metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2023-05-17T15:41:56.000Z</time>
+  </metadata>
+  <trk>
+    <name>广州市 跑步</name>
+    <type>running</type>
+    <trkseg>
+      <trkpt lat="23.1779859960079193115234375" lon="113.250747956335544586181640625">
+        <ele>24.200000762939453125</ele>
+        <time>2023-05-17T15:41:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:cad>0</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="23.17798624746501445770263671875" lon="113.2507467828691005706787109375">
+        <ele>24.200000762939453125</ele>
+        <time>2023-05-17T15:41:58.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:cad>61</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="23.17802011035382747650146484375" lon="113.25074619613587856292724609375">
+        <ele>24.3999996185302734375</ele>
+        <time>2023-05-17T15:42:07.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:cad>0</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
